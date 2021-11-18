@@ -1,3 +1,7 @@
+
+     /*code to sort an array without using any sorting algorithm and find its kth max */
+
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h>
