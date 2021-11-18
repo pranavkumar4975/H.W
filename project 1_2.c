@@ -1,5 +1,5 @@
 
-     /*code to sort an array without using any sorting algorithm and find its kth max */
+     /*code to sort an array without using any sorting algorithm */
 
 
 #include<stdio.h>
