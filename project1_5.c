@@ -1,3 +1,6 @@
+
+     /* left shit along with rotation of elements of an array */
+
 #include<stdio.h>
 struct array
 {
