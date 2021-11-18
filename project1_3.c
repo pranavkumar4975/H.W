@@ -1,3 +1,7 @@
+
+    /*all negative on left side and positive on right side */
+
+
 #include<stdio.h>
 
 struct array
