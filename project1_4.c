@@ -1,3 +1,7 @@
+      /*finding union of two sorted sets */
+
+
+
 #include<stdio.h>
 struct array
 {
